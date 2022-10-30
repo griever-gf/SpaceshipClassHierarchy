@@ -1,0 +1,11 @@
+C:\MY_PROJECTS\SpaceshipClassHierarchy\SpaceshipClassHierarchy\obj\Debug\netcoreapp2.1\SpaceshipClassHierarchy.csprojAssemblyReference.cache
+C:\MY_PROJECTS\SpaceshipClassHierarchy\SpaceshipClassHierarchy\obj\Debug\netcoreapp2.1\SpaceshipClassHierarchy.csproj.CoreCompileInputs.cache
+C:\MY_PROJECTS\SpaceshipClassHierarchy\SpaceshipClassHierarchy\obj\Debug\netcoreapp2.1\SpaceshipClassHierarchy.AssemblyInfoInputs.cache
+C:\MY_PROJECTS\SpaceshipClassHierarchy\SpaceshipClassHierarchy\obj\Debug\netcoreapp2.1\SpaceshipClassHierarchy.AssemblyInfo.cs
+C:\MY_PROJECTS\SpaceshipClassHierarchy\SpaceshipClassHierarchy\bin\Debug\netcoreapp2.1\SpaceshipClassHierarchy.deps.json
+C:\MY_PROJECTS\SpaceshipClassHierarchy\SpaceshipClassHierarchy\bin\Debug\netcoreapp2.1\SpaceshipClassHierarchy.runtimeconfig.json
+C:\MY_PROJECTS\SpaceshipClassHierarchy\SpaceshipClassHierarchy\bin\Debug\netcoreapp2.1\SpaceshipClassHierarchy.runtimeconfig.dev.json
+C:\MY_PROJECTS\SpaceshipClassHierarchy\SpaceshipClassHierarchy\bin\Debug\netcoreapp2.1\SpaceshipClassHierarchy.dll
+C:\MY_PROJECTS\SpaceshipClassHierarchy\SpaceshipClassHierarchy\bin\Debug\netcoreapp2.1\SpaceshipClassHierarchy.pdb
+C:\MY_PROJECTS\SpaceshipClassHierarchy\SpaceshipClassHierarchy\obj\Debug\netcoreapp2.1\SpaceshipClassHierarchy.dll
+C:\MY_PROJECTS\SpaceshipClassHierarchy\SpaceshipClassHierarchy\obj\Debug\netcoreapp2.1\SpaceshipClassHierarchy.pdb
